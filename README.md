@@ -1,7 +1,7 @@
 # Starbucks Coffee
 
 ### Web Version
-<img src="assets/final.png" alt="Web Version"/>
+![]()
 
 ## ⚒️ Technology
 
