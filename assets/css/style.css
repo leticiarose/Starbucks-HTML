@@ -4,3 +4,12 @@ body {
     font-family: 'Open Sans', sans-serif;
     margin: 0;
 }
+.container {
+  max-width: 1140px;
+  margin: auto;
+}
+.bar {
+  background-color: #006341;
+  width: 168px;
+  height: 22px;
+}
