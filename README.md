@@ -3,6 +3,9 @@
 ### Web Version
 ![]()
 
+### Mobile Version
+<img src="assets/images/mobile.version.png" alt="Mobile Version"/>
+
 ## ⚒️ Technology
 
 ### The following tools were used in the construction of the project:  
