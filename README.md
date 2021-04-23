@@ -4,7 +4,7 @@
 ![]()
 
 ### Mobile Version
-<img src="assets/images/mobile.version.png" alt="Mobile Version"/>
+![](https://github.com/leticiarose/Starbucks-HTML/blob/657681ca9872265fa216a18c67aaf3c352819a29/assets/images/mobile%20version.png)
 
 ## ⚒️ Technology
 
